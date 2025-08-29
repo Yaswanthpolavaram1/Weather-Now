@@ -14,11 +14,11 @@ npm install
 npm run start
 ```
 
-## Deploy on CodeSandbox/StackBlitz
+## Deploy on CodeSandbox/StackBlitz or Netlify
 Upload this ZIP file to CodeSandbox (Create Sandbox → Import from ZIP) or StackBlitz.
 
 ## Deliverables
-- Level 1: ChatGPT Q&A PDF (included)
+- Level 1: Q&A PDF
 - Level 2: This working project
 - Level 3: Code + README
 
